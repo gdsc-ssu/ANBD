@@ -1,0 +1,6 @@
+[submodule "anbd-app"]
+	path = anbd-app
+	url = https://github.com/gdsc-ssu/anbd-app.git
+[submodule "anbd-api"]
+	path = anbd-api
+	url = https://github.com/gdsc-ssu/anbd-api.git
